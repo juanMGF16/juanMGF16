@@ -4,7 +4,7 @@ Soy Juan Manuel Gutierrez Fierro, un joven que esta en el proceso de aprendizaje
 
 ### Experiencia
  * Diseñador y Desarrollador de Software
- * Mas de un año de experiencia en diseño y desarrollo de software de paginas web, entre otros proyectos
+ * Tuve la valiosa oportunidad de formar parte del proyecto de extensión tecnológica en el SENA, donde mi labor consistió en la creación de páginas web destinadas a microempresas.
    
 ### Educación
   * Titulo de Bachiller
